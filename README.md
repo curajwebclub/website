@@ -1,4 +1,4 @@
-# Curah Web Club website
+# Curaj Web Club website
 
 ## Install dependencies
 
