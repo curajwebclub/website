@@ -54,7 +54,7 @@
 					</p>
 				</div>
 				<div class="bottom-button">
-					<span>Coming Soon</span>
+					<a href="#onboard">Coming Soon</a>
 				</div>
 			</div>
 			<div class="card">
